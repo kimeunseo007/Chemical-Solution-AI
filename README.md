@@ -33,7 +33,7 @@
 ## 💻 실행 화면 (Demo)
 사용자가 SMILES 코드를 입력하면 실시간으로 예측 결과와 분자 구조 이미지를 보여줍니다.
 
-(result_image.png)
+![실행화면](result_image.png)
 
 ## 🚀 사용 방법 (How to Run)
 **1. 필요 라이브러리 설치**
